@@ -17,7 +17,8 @@ export const styles = StyleSheet.create({
         borderRadius: 10,
         paddingVertical: 20,
         width: '23%',
-        alignItems: 'center'
+        alignItems: 'center',
+        backgroundColor: COLORS.WHITE,
     },
       
 });
